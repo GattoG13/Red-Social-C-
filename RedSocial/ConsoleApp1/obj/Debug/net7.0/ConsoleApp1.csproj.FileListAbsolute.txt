@@ -1,0 +1,126 @@
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\New folder\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gatto\OneDrive\Documentos\ORT\2 semestre\Programacion2\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Owner\Downloads\ObligatorioSemestre1 (gian)\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Owner\Desktop\New folder (2)\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gatto\Downloads\ObligatorioSemestre1\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.dll
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\bin\Debug\net7.0\Dominio.pdb
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CopyComplete
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\gatto\Downloads\Obligatorio. Pablo Padilla (292209) Gian Gatto(248529)  N2D\ObligatorioSemestre1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
