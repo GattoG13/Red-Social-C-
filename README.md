@@ -1,7 +1,15 @@
-Aplicacion tipo Red Social desarrollada con C# donde el usuario podra realizar diferentes funcionalidades
-El usuario podra registrarse o loguearse pasando por diferentes controles de seguridad
-Realizar o eliminar Post y Publicaciones creadas por el mismo
-Bloquear Publicaciones o Post creadas por otros
-Agregar o eliminar solicitudes de amistad recibidas por otros usuarios
-Enviar solicitudes de amistad con estado pendiente hasta ser aceptadas o eliminadas por los otros usuarios
-Listar Post y Publicaciones de sus amigos y propias
+Social Media Application
+A social network-style application developed in C# where users can perform various functionalities:
+
+Register or log in with multiple security validations.
+
+Create or delete posts and publications made by themselves.
+
+Block posts or publications created by other users.
+
+Add or remove friend requests received from other users.
+
+Send friend requests with a "pending" status until accepted or rejected by the recipient.
+
+View posts and publications from friends and their own.
+
