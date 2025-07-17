@@ -1,15 +1,20 @@
-Social Media Application
-A social network-style application developed in C# where users can perform various functionalities:
+# 🛍️ Nike Shoes E-commerce
 
-Register or log in with multiple security validations.
+A fully functional e-commerce web app focused on Nike sneakers. Built entirely with **React**, this was my first complete React project developed as part of my final coursework at CoderHouse. It features dynamic routing, product detail pages, an interactive shopping cart, and a working checkout powered by Firebase.
 
-Create or delete posts and publications made by themselves.
+## 🚀 Features
 
-Block posts or publications created by other users.
+- 👟 Browse sneakers by category (e.g., Jordan, Airmax)
+- 🛒 Add/remove products to/from the cart
+- 🧾 Product detail pages with image, stock, and description
+- ✅ Checkout with form validation and SweetAlert confirmation
+- 🔥 Order data saved to Firebase Firestore
+- 📱 Fully responsive layout for desktop and mobile
 
-Add or remove friend requests received from other users.
+## 🧑‍💻 Tech Stack
 
-Send friend requests with a "pending" status until accepted or rejected by the recipient.
-
-View posts and publications from friends and their own.
-
+- **React JS**
+- **Material UI** – for sleek UI components
+- **Firebase (Firestore)** – to store orders
+- **React Router DOM** – for routing and navigation
+- **SweetAlert2** – for user-friendly alert messages
