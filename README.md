@@ -1,6 +1,6 @@
 # 🛍️ Nike Shoes E-commerce
 
-A fully functional e-commerce web app focused on Nike sneakers. Built entirely with **React**, this was my first complete React project developed as part of my final coursework at CoderHouse. It features dynamic routing, product detail pages, an interactive shopping cart, and a working checkout powered by Firebase.
+A basic functional e-commerce web app focused on Nike sneakers. Built entirely with **React**, this was my first complete React project developed as part of my final coursework at CoderHouse. It features dynamic routing, product detail pages, an interactive shopping cart, and a working checkout powered by Firebase.
 
 ## 🚀 Features
 
