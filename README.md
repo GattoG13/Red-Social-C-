@@ -1,20 +1,24 @@
-# 🛍️ Nike Shoes E-commerce
+# 🧑‍🤝‍🧑 Social Network Prototype – C# Desktop App
 
-A basic functional e-commerce web app focused on Nike sneakers. Built entirely with **React**, this was my first complete React project developed as part of my final coursework at CoderHouse. It features dynamic routing, product detail pages, an interactive shopping cart, and a working checkout powered by Firebase.
+This is a Windows Forms-based desktop application simulating a basic social networking environment. Built entirely with C#, the project was developed to explore object-oriented programming, UI interaction, and form-based logic.
 
-## 🚀 Features
+---
 
-- 👟 Browse sneakers by category (e.g., Jordan, Airmax)
-- 🛒 Add/remove products to/from the cart
-- 🧾 Product detail pages with image, stock, and description
-- ✅ Checkout with form validation and SweetAlert confirmation
-- 🔥 Order data saved to Firebase Firestore
-- 📱 Fully responsive layout for desktop and mobile
+## 🧩 Features
 
-## 🧑‍💻 Tech Stack
+- 👤 **User authentication** – Login and register users securely  
+- 🧱 **User profiles** – View user-specific walls and personal data  
+- 📝 **Posting system** – Users can publish posts and comments on their timeline  
+- 🔄 **Feed simulation** – Basic rendering of user interactions on the main wall  
+- 🧠 **OOP logic** – Designed following principles of encapsulation and separation of concerns  
+- 🎓 **Academic purpose** – Project created for practice and exploration of C# desktop development
 
-- **React JS**
-- **Material UI** – for sleek UI components
-- **Firebase (Firestore)** – to store orders
-- **React Router DOM** – for routing and navigation
-- **SweetAlert2** – for user-friendly alert messages
+---
+
+## 💻 Technologies
+
+- C# (.NET Framework)
+- Windows Forms (WinForms)
+- Object-Oriented Programming (OOP)
+
+---
